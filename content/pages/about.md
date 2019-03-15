@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: About me
-draft: true
+draft: false
 ---
 ## Skills
 - BackEnd Web Programming (Java, node.js, Ruby)
