@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Yuta Yanagisawa',
+  subtitle: 'Web Developer. Hobbyist with great interest in hardware, embedded programming, music and gaming.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,14 +23,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Yuta Yanagisawa',
+    photo: '/photo.png',
+    bio: 'Web Developer. Hobbyist with great interest in hardware, embedded programming, music and gaming.',
     contacts: {
-      email: '#',
+      email: 'yutayandc@gmail.com',
+      facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'TechYuts',
+      github: 'YutaYanagisawa',
       rss: '#',
       vkontakte: '#'
     }
