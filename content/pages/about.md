@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: slug
+slug: pages/about
 draft: false
 ---
 ## Skills

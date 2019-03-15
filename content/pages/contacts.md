@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact me
-slug: pages
+slug: pages/contacts
 draft: false
 ---
 coming soon
