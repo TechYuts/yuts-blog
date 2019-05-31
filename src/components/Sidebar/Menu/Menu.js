@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import styles from './Menu.module.scss';
+import Pdf from '../../../assets/documents/yutayanagisawacv.pdf'
 
 const Menu = ({ menu }) => (
   <nav className={styles['menu']}>
@@ -17,12 +18,13 @@ const Menu = ({ menu }) => (
         </li>
       ))}
       <li className={styles['menu__list-item']}>
-        <Link
-          to="/media/yutayanagisawacv.pdf"
+        <a
+          href={Pdf}
           className={styles['menu__list-item-link']}
+          target="_blank"
         >
           Download CV
-        </Link>
+        </a>
       </li>
     </ul>
   </nav>
