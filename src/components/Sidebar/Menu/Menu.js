@@ -16,6 +16,14 @@ const Menu = ({ menu }) => (
           </Link>
         </li>
       ))}
+      <li className={styles['menu__list-item']}>
+        <Link
+          to="/media/yutayanagisawacv.pdf"
+          className={styles['menu__list-item-link']}
+        >
+          Download CV
+        </Link>
+      </li>
     </ul>
   </nav>
 );
