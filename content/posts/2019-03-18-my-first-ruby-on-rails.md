@@ -3,7 +3,7 @@ template: post
 title: My First Ruby On Rails
 slug: posts/FirstRubyOnRails
 draft: false
-date: 2019-03-18T02:17:47.256Z
+date: 2020-01-01T02:17:47.256Z
 description: My First Attemp to Ruby on Rails and comparing it with java
 category: programming
 tags:
