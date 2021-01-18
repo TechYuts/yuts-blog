@@ -3,7 +3,7 @@ template: post
 title: Setting up Eslint + Prettier + Typescript + React to IntelliJ Idea
 slug: posts/settingEslintOnIdea
 draft: false
-date: 2019-04-16T02:03:12.914Z
+date: 2020-02-20T02:03:12.914Z
 description: >-
   No one wants to see messy code. Writing readable codes makes you a good
   programmer but how can you know when your code is "Readable"? And here comes
