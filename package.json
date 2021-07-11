@@ -66,6 +66,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.23.0",
     "netlify-cms": "^2.9.7",
+    "node": "^16.4.0",
     "node-sass": "^4.13.0",
     "normalize-scss": "^7.0.1",
     "prismjs": "^1.17.1",
