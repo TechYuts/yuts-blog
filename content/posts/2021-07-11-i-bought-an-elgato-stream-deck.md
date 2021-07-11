@@ -2,7 +2,7 @@
 template: post
 title: I bought an elgato stream deck
 slug: gadgets
-draft: true
+draft: false
 date: 2021-05-19T05:48:55.587Z
 description: >+
   I just purchased an Elgato Stream Deck. a Stream Deck is often used by people
